@@ -44,7 +44,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   ),
                 ),
                 const SizedBox(height: 8),
-                Text(
+                const Text(
                   'Join us today!',
                   style: TextStyle(
                     fontSize: 16,
@@ -82,7 +82,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text(
+                    const Text(
                       'I want to join as:',
                       style: TextStyle(
                         color: AppColors.gray,
